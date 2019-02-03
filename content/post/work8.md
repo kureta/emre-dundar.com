@@ -1,13 +1,13 @@
 +++
-showonlyimage = false
-draft = false
-image = "img/portfolio/camera1.jpg"
 date = "2016-11-05T19:59:22+05:30"
+draft = true
+image = "img/portfolio/camera1.jpg"
+showonlyimage = false
 title = "A Post with lot of comments"
-writer = "Göran Svensson"
 weight = 8
-+++
+writer = "Göran Svensson"
 
++++
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
 <!--more-->
 
@@ -29,4 +29,4 @@ The Big Oxmox advised her not to do so, because there were thousands of bad Comm
 * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 * Aliquam tincidunt mauris eu risus.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then

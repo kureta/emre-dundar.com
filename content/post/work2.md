@@ -1,15 +1,14 @@
 +++
+categories = ["design"]
 date = "2016-11-05T19:41:01+05:30"
-title = "This is a Standard Post"
-writer = "Göran Svensson"
-draft = false
+description = "Individual meta description for this post"
 image = "img/portfolio/logs1.jpg"
 showonlyimage = false
-categories = [ "design"]
+title = "This is a Standard Post"
 weight = 2
-description = "Individual meta description for this post"
-+++
+writer = "Göran Svensson"
 
++++
 This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
 <!--more-->
 
@@ -34,4 +33,4 @@ The Big Oxmox advised her not to do so, because there were thousands of bad Comm
 * Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 * Aliquam tincidunt mauris eu risus.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
