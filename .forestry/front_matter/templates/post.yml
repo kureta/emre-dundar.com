@@ -46,5 +46,10 @@ fields:
     step: '1'
     required: true
   default: '1'
+- type: boolean
+  name: draft
+  label: draft
+  description: is draft?
+  default: true
 pages:
 - content/post/emre-dundar-is-a-composer.md
