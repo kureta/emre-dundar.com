@@ -9,6 +9,12 @@ fields:
   description: Post's title
   config:
     required: true
+- type: text
+  name: writer
+  label: writer
+  config:
+    required: true
+  default: Emre Dundar
 - type: datetime
   name: date
   label: date
