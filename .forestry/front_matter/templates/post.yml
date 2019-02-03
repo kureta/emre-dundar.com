@@ -46,3 +46,5 @@ fields:
     step: '1'
     required: true
   default: '1'
+pages:
+- content/post/emre-dundar-is-a-composer.md
