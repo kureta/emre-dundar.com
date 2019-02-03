@@ -6,6 +6,7 @@ showonlyimage = false
 title = "Emre Dundar is a composer"
 weight = 1
 writer = "Emre Dundar"
+draft = false
 
 +++
 Yes he is indeed a composer.
