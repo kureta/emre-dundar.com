@@ -8,3 +8,8 @@ weight = 1
 writer = "Emre Dundar"
 
 +++
+Yes he is indeed a composer.
+
+<--more!-->
+
+And he is from Istanbul.
