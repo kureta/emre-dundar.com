@@ -1,0 +1,48 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: title
+  description: Post's title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: date
+  description: Post's date
+  config:
+    date_format: YYYY/MM/DD
+    time_format: HH:mm ZZ
+    required: true
+- type: text
+  name: writer
+  label: writer
+  description: Post's writer
+  config:
+    required: true
+  default: Emre Dundar
+- type: tag_list
+  name: categories
+  label: categories
+  description: Post's categories
+- type: file
+  name: image
+  label: image
+  description: Cover image
+- type: boolean
+  name: showonlyimage
+  label: showonlyimage
+  description: Show only image in preview
+- type: number
+  name: weight
+  label: weight
+  description: I don't know
+  config:
+    min: '1'
+    max: '100'
+    step: '1'
+    required: true
+  default: '1'
