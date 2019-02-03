@@ -17,13 +17,6 @@ fields:
     date_format: YYYY/MM/DD
     time_format: HH:mm ZZ
     required: true
-- type: text
-  name: writer
-  label: writer
-  description: Post's writer
-  config:
-    required: true
-  default: Emre Dundar
 - type: tag_list
   name: categories
   label: categories
