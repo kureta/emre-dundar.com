@@ -1,6 +1,7 @@
 +++
 categories = ["travel"]
 date = "2016-11-05T19:44:32+05:30"
+draft = true
 image = "img/portfolio/bridge1.jpg"
 showonlyimage = false
 title = "Another Awesome Post"
