@@ -67,3 +67,19 @@ paginate = 5 #frontpage pagination
   pinterest     = "full profile url in pinterest"
   rss           = true
 
+# Add0 a writer, then use it in the markdown front matter like this: writer = "Lukas Herman"
+  [params.writers]
+    [params.writers."Emre Dundar"]
+    # link = "https://appernetic.io/"
+    email = "emre@emre-dundar.com"
+    bio = [
+      "Emre Dundar is an accomplished composer from Istanbul. He focuses on musical representations of various aspects of spoken languages."
+    ]
+    facebook      = "full Göran profile url in facebook"
+    googleplus    = "full profile url in googleplus"
+    twitter       = "full profile url in twitter"
+    linkedin      = "full profile url in linkedin"
+    stackoverflow = "full profile url in stackoverflow"
+    instagram     = "full profile url in instagram"
+    github        = "full profile url in github"
+    pinterest     = "full profile url in pinterest"
