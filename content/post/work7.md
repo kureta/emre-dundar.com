@@ -1,6 +1,5 @@
 +++
 date = "2016-11-05T19:57:40+05:30"
-draft = true
 image = "img/portfolio/bike1.jpg"
 showonlyimage = false
 title = "Post with a Gallery"
