@@ -1,4 +1,4 @@
-baseurl = "http://emre-dundar.com/"
+baseurl = "https://emre-dundar.com/"
 publishDir = "/home/kureta/srv/emre-dundar.com"
 title = "Emre Dundar"
 theme = "nederburg"
