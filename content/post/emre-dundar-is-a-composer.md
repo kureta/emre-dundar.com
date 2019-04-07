@@ -8,8 +8,6 @@ weight = 1
 writer = "Emre Dundar"
 
 +++
-This site is currently under construction. Contact: \[emre@emre-dundar.com\](mailto:emre@emre-dundar.com)
+This site is currently under construction. Contact: [emre@emre-dundar.com](mailto:emre@emre-dundar.com)
 
 <!--more-->
-
-And he is from Istanbul.
