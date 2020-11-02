@@ -1,6 +1,6 @@
 +++
-date = 2016-11-05T15:35:33Z
-title = "About me"
+date = ""
+title = "EMRE DÜNDAR / COMPOSER"
 
 +++
 EMRE DÜNDAR
