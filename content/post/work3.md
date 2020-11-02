@@ -1,6 +1,6 @@
 +++
-categories = ["travel"]
-date = 2016-11-05T14:14:32Z
+categories = []
+date = ""
 image = ""
 showonlyimage = false
 title = ""
