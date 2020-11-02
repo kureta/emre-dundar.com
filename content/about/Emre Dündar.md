@@ -5,7 +5,7 @@ image = "img/2020/11/02/screen-shot-2020-11-02-at-03-09-12.png"
 showonlyimage = true
 title = "EMRE DÜNDAR / COMPOSER"
 weight = 1
-writer = "Emre Dundar"
+writer = "Emre Dündar"
 
 +++
 EMRE DÜNDAR
