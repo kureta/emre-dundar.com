@@ -50,4 +50,5 @@ fields:
   description: is draft?
   default: true
 pages:
+- content/about/Emre Dündar.md
 - content/post/emre-dundar-is-a-composer.md

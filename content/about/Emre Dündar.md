@@ -1,6 +1,11 @@
 +++
-date = ""
+categories = []
+date = 2020-11-01T23:00:00Z
+image = "img/2020/11/02/screen-shot-2020-11-02-at-03-09-12.png"
+showonlyimage = false
 title = "EMRE DÜNDAR / COMPOSER"
+weight = 1
+writer = "Emre Dundar"
 
 +++
 EMRE DÜNDAR
