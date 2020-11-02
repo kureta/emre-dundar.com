@@ -2,12 +2,6 @@
 label: emre dündar
 hide_body: false
 fields:
-- type: list
-  name: categories
-  label: categories
-- type: datetime
-  name: date
-  label: date
 - type: file
   name: image
   label: image
