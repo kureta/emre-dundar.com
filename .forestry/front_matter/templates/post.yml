@@ -51,4 +51,5 @@ fields:
   default: true
 pages:
 - content/about/Emre Dündar.md
+- content/about/emre-dundar-cv.md
 - content/post/emre-dundar-is-a-composer.md
